@@ -4,7 +4,7 @@ This is a ElasticSearch demo with **index creation**, **data indexing** and **re
 **whitespace analyzer** is used, which means texts will be tokenized and analyzed with whitespace. You can directly use any tokenization lib as you like, and join them with whitspace.
 
 ### Requirement
-- Python Elasticsearch Client
+- Python Elasticsearch Client  
   pip install elasticsearch
 
 
