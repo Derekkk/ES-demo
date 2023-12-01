@@ -6,11 +6,12 @@ This is a ElasticSearch demo with **index creation**, **data indexing** and **re
 ### Requirement
 - Python Elasticsearch Client  
   pip install elasticsearch
+  
 
 
 ### Install ES
 
-Download and run ES from [ES website](https://www.elastic.co/guide/en/elasticsearch/reference/5.6/_installation.html). Running ES only requires java environment. More information plz refer offical web.
+Download and run ES from [ES website](https://www.elastic.co/guide/en/elasticsearch/reference/5.6/_installation.html). Running ES only requires java environment. More information plz refer offical web...
 
 
 
